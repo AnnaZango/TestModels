@@ -1,0 +1,34 @@
+{
+  "models": [
+    {
+      "id": 1,
+      "name": "building_01",
+      "url": "https://github.com/AnnaZango/TestModels/raw/main/building_01.glb",
+      "rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 2,
+      "name": "building_02",
+      "url": "https://github.com/AnnaZango/TestModels/raw/main/building_02.glb",
+      "rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 3,
+      "name": "building_03",
+      "url": "https://github.com/AnnaZango/TestModels/raw/main/building_03.gltf",
+      "rotation": {
+        "x": -90,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ]
+}
